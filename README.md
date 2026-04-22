@@ -60,4 +60,4 @@ Behavioral features are more useful than sentiment alone, and simple models are 
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
-jupyter notebook analysis.ipynb
+jupyter notebook PT_ai.ipynb
