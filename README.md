@@ -7,7 +7,12 @@ This project analyzes how market sentiment (Fear vs Greed) influences trader beh
 
 ## Dataset
 - Historical trading data containing PnL, trade size, and timestamps  
-- Fear & Greed Index representing market sentiment  
+- Fear & Greed Index representing market sentiment
+
+## Data
+
+Dataset is not included due to size constraints.  
+To run the notebook, place the required CSV files in the project directory. 
 
 ---
 
